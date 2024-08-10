@@ -30,14 +30,18 @@ to display the net salary.
 
 ## Features
 
+```bash
 - Gross salary input.
 - Calculation of tax according to progressive scale.
 - Display net salary.
-  
+```
+
 ## Development instructions
 
+```bash
 1. Use a method to encapsulate tax calculation logic.
 2. Manage tax brackets with if-else.
+```
    
 ## Potential extension
 - Add additional deductions (insurance, pension).
