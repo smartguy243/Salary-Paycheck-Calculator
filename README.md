@@ -1,4 +1,4 @@
-##Salary Paycheck Calculator
+#Salary Paycheck Calculator
 
 ##Project goal
 
