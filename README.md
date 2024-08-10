@@ -39,6 +39,24 @@ to display the net salary.
 1. Use a method to encapsulate tax calculation logic.
 2. Manage tax brackets with if-else.
    
-##Potential extension
+## Potential extension
 - Add additional deductions (insurance, pension).
 - Allow the user to choose between different tax brackets.
+
+## Getting Started
+```bash
+1. Clone the repository to your local machine:  
+   git clone https://github.com/smartguy243/Salary-Paycheck-Calculator.git
+   
+2. Navigate to the exercises directory.  
+   
+3. Start solving exercises and check your solutions!
+```
+
+## Contribute
+
+We welcome contributions! If you have ideas for new projects or improvements to existing ones, feel free to submit a pull request.
+
+## Connect with Us:
+
+Follow this account and contribute your skills to this growing repository. Feel free to reach out for discussions, questions, or feedback!
